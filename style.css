@@ -13,9 +13,9 @@ body{
     height: 100vh;
 
 }
-.car-pic{
+.car-pic img{
     position: absolute;
-    bottom: 5px;
+    bottom: 10px;
     
     
     
